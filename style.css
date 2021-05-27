@@ -100,3 +100,15 @@ font-size:20px;
 .links:hover{
 background-color:dodgerblue
 }
+body{
+text-align:center;
+align-content:center
+}
+.article:hover{
+color:blue;
+text-decoration:underline;
+}
+.article{
+text-decoration:none;
+color:mediumpurple
+}
